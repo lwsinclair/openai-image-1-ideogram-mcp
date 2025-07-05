@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/thelyoncrypt-openai-image-1-ideogram-mcp-badge.png)](https://mseep.ai/app/thelyoncrypt-openai-image-1-ideogram-mcp)
+
 # OpenAI Image 1 Ideogram MCP
 
 ![MCP Banner](./MCP%20BANNER.png)
